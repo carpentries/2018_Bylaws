@@ -1,1 +1,5 @@
-# 2018_Bylaws
+# Request for Comment on The Carpentries Bylaws draft
+
+Bylaws traditionally describe the rules and regulations used to run an organization. As a fiscally sponsored organization, The Carpentries are not required to have formal (legally binding) bylaws. As an organization that is community-driven, though, these bylaws are important for describing the role of the community in governing and guiding the strategic direction of The Carpentries. We have tried to use plain language, rather than legal jargon, to make this document accessible for our diverse community members, while still attempting to provide clear expectations associated with the structure and governance of The Carpentries. The Executive Council has worked to accommodate comments solicited last year during the process of merging Software Carpentry and Data Carpentry (https://github.com/carpentries/2017Merger) into this draft of the bylaws. 
+
+Please feel free to comment on existing issues in this repository or create new issues as you see fit. We have included a few issues for which we are particularly interested in receiving feedback. You are welcome to add comments to these issues until September 14, 2018 at 23:59 AoE (Anywhere on Earth), after which the Executive Committee will revise and vote on the final version.
