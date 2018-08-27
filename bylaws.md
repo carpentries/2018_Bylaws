@@ -27,7 +27,7 @@ In the event that Lesson Programs fail to meet the responsibilities described ab
  
 ## 3. Organizational Membership
 ### Eligibility, Rights, and Termination of Organizational Members
-In addition to the rights and responsibilities included in the Membership Agreement, each Organizational Member is allowed one vote in elections.
+The rights and responsibilities of Member Organizations are outlined in each institution's Membership Agreement.
 
 ## 4. Individual Voting Membership
 
