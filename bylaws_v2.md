@@ -88,7 +88,12 @@ If a Member of the Executive Council consistently fails to meet the obligations 
 ## 6. Nominations and Elections
 
 ### Overview
-Four (4) to five (5) of the nine (9) seats on the Executive Council will be re-elected each year, either by the community or by the Executive Council. 
+Four (4) to five (5) of the nine (9) seats on the Executive Council will be re-elected each year, either by the community or by the Executive Council. A general timeline for elections will occur annually as follows:
+- Mid-October: Executive Council announces election, soliciting self-nominations for Community-elected Members and recommendations for Council-elected Members
+- Late November: Self-nominations close and the Executive Council hosts Community Calls to introduce candidates and discuss the election
+- Early December: Election is open for Community-Elected Members
+- Mid-December: Executive Council elects Council-Elected Members and announces the Executive Council Members for the following year
+- Jan 1: The new Executive Council officially accepts responsibility 
 
 ### Community-elected Members
 The Executive Council will seek candidates for Elected Members seats that become vacant. Two (2) of the Appointed Member seats shall be filled at each election. Any voting-eligible Member of The Carpentries may stand for election by announcing their candidacy at least 14 days in advance of the election. If there are not enough nominations to fill all vacant Elected Member seats, the Elected Members will decide amongst them who will remain in office. The Carpentries staff may not stand for election.
