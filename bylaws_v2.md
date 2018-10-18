@@ -27,7 +27,7 @@ In the event that Lesson Programs fail to meet the responsibilities described ab
  
 ## 3. Organizational Membership
 ### Eligibility, Rights, and Termination of Organizational Members
-The rights and responsibilities of Member Organizations are outlined in each institution's Membership Agreement.
+Member Organizations have committed to supporting the maintenance and growth of the Carpentries community according to the specific details outlined in each institution's Membership Agreement. In general, Member Organizations financially support The Carpentries in exchange for priority access to instructor training and guidance in building training capacity at their organization.
 
 ## 4. Individual Voting Membership
 
