@@ -87,6 +87,9 @@ If a Member of the Executive Council consistently fails to meet the obligations 
 
 ## 6. Nominations and Elections
 
+### Overview
+Four (4) to five (5) of the nine (9) seats on the Executive Council will be re-elected each year, either by the community or by the Executive Council. 
+
 ### Council-elected Members
 The Executive Council will identify areas of expertise and experience that are needed by the Council and solicit community recommendations for candidates providing this expertise and experience to be considered for Appointed Member seats that become vacant. Two (2) or three (3) of the Appointed Member seats will be filled each year. The Executive Council must consider at least one more candidate than the number of Appointed Member seats to be filled. All voting-eligible Members of The Carpentries as well as other individuals with relevant backgrounds deemed suitable by the Executive Council are eligible for nomination as Appointed Members. 
 
