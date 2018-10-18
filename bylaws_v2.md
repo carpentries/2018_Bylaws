@@ -74,7 +74,7 @@ The Executive Council will be composed of nine (9) Members, each serving a two-y
 No employer may have more than two elected or appointed representatives on the Executive Council, and Carpentries staff are not eligible to serve as Executive Council Members. The Executive Council has the final say in determining whether people are working for the same employer. If more than two people who are working for the same employer are elected, they must step down one by one to be replaced by other nominees in order of the number of votes received.
 
 ### Regular Meetings and Quorum
-The Executive Council must meet at least ten (10) times per year, either in person or online. Quorum for meetings of the Executive Council is five Members.
+The Executive Council must meet at least ten (10) times per year, either in person or online. Quorum for meetings of the Executive Council is five Members, including at least one Council-elected and one Community-elected Member.
 
 ### Compensation
 Members of the Executive Council shall not receive compensation from the Organization for their service, with the exception of administrative support, travel, and accommodation costs related to their duties on the Executive Council.
