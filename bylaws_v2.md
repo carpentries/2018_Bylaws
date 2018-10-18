@@ -87,12 +87,12 @@ If a Member of the Executive Council consistently fails to meet the obligations 
 
 ## 6. Nominations and Elections
 
-### Appointed Members and Selection Procedures
+### Council-elected Members
 The Executive Council will identify areas of expertise and experience that are needed by the Council and solicit community recommendations for candidates providing this expertise and experience to be considered for Appointed Member seats that become vacant. Two (2) or three (3) of the Appointed Member seats will be filled each year. The Executive Council must consider at least one more candidate than the number of Appointed Member seats to be filled. All voting-eligible Members of The Carpentries as well as other individuals with relevant backgrounds deemed suitable by the Executive Council are eligible for nomination as Appointed Members. 
 
 Appointed Members are to be selected from among the nominees by the Executive Council by anonymous vote. Each Executive Council Member may vote for as many nominees as there are seats to be filled. Appointed Members will abstain from voting when they themselves are nominated for reappointment. The nominees with the highest number of votes will be appointed. This vote will not take place until after the voting results for Elected Members are known and no later than December 15th. 
 
-### Elected Members and Election Procedures
+### Community-elected Members
 The Executive Council will seek candidates for Elected Members seats that become vacant. Two (2) of the Appointed Member seats shall be filled at each election. Any voting-eligible Member of The Carpentries may stand for election by announcing their candidacy at least 14 days in advance of the election. If there are not enough nominations to fill all vacant Elected Member seats, the Elected Members will decide amongst them who will remain in office. The Carpentries staff may not stand for election.
 Elections will take place once every calendar year and no later than 30 days before the new Executive Council becomes active (Jan. 1). Elections will typically take place in November. Elected Members are to be selected by voting-eligible Members of The Carpentries community and Carpentries staff. Each of these individuals may vote for as many nominees as there are seats to be filled. The nominees who receive the highest number of votes will be elected into the Executive Council.
 
