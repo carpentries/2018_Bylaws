@@ -10,7 +10,7 @@
 Lesson Programs are collections of lessons which comprise one or more Carpentries workshops and the leadership guiding their development and implementation. The following requirements outline the general expectations associated with Lesson Programs; additional detail can be found in the Lesson Program Policy.
 
 ### Eligibility for Lesson Program Membership
-The Executive Council will be responsible for assessing a prospective Lesson Program for acceptance into The Carpentries, which will require a majority vote. The Executive Directory will be responsible for developing and implementing policies related to Lesson Program onboarding and assessing the ability of community members and staff to meet obligations associated with Lesson Programs.
+The Executive Council is responsible for assessing a prospective Lesson Program for acceptance into The Carpentries, which requires a majority vote. The Executive Director will be responsible for developing and implementing policies related to Lesson Program incubation and assessing the ability of the staff and community to meet obligations associated with new Lesson Programs.
 
 ### Roles and Responsibilities of Lesson Programs
 A Lesson Program within The Carpentries should possess the following characteristics:
