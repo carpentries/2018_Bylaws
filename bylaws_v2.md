@@ -41,7 +41,7 @@ Individuals who satisfy at least one of the following conditions are eligible fo
 
 The Executive Director and all staff of The Carpentries (e.g., someone who has been paid for their work in the past year) are not eligible for Voting Membership.
 
-### Application for Voting Membership
+### Responsibilities of Voting Members
 All individuals who satisfy conditions for 1-3 above are automatically tracked and will receive voting rights. Any individual who satisfies condition 4 may receive voting rights by contacting The Carpentries staff within a reasonable timeframe prior to release of ballots, as dictated by the Election Policy.
 
 ### Resignation and Termination
