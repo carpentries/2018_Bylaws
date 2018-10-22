@@ -37,7 +37,7 @@ Individuals who satisfy at least one of the following conditions are eligible fo
 1. Every individual who has completed instructor or trainer certification in the past year
 2. Every individual who has completed their instructor certification in the last two years and has taught at least one workshop of The Carpentries 
 3. Every individual who is a certified instructor and has taught at least two workshops of The Carpentries in the past two years;
-4. Any individual who has participated on a committee, served as a mentor or maintainer, or otherwise made a significant contribution to any Lesson Program or The Carpentries organization in the past year is also considered active in the community and is welcome to apply for Voting Membership.
+4. Any individual who has participated on a committee, served as a mentor or maintainer, or otherwise made a significant contribution (as determined on a case-by-case basis by the Executive Council) to any Lesson Program or The Carpentries organization in the past year is also considered active in the community and is welcome to apply for Voting Membership.
 
 The Executive Director and all staff of The Carpentries (e.g., someone who has been paid for their work in the past year) are not eligible for Voting Membership.
 
