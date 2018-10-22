@@ -10,7 +10,7 @@
 Lesson Programs are collections of lessons which comprise one or more Carpentries workshops and the leadership guiding their development and implementation. The following requirements outline the general expectations associated with Lesson Programs; additional detail can be found in the Lesson Program Policy.
 
 ### Eligibility for Lesson Program Membership
-The Executive Council will be responsible for assessing a prospective Lesson Program for acceptance into The Carpentries, which will require a majority vote. The Executive Directory will be responsible for developing and implementing policies related to Lesson Program onboarding and assessing the ability of community members and staff to meet obligations associated with Lesson Programs.
+The Executive Council is responsible for assessing a prospective Lesson Program for acceptance into The Carpentries, which requires a majority vote. The Executive Director will be responsible for developing and implementing policies related to Lesson Program incubation and assessing the ability of the staff and community to meet obligations associated with new Lesson Programs.
 
 ### Roles and Responsibilities of Lesson Programs
 A Lesson Program within The Carpentries should possess the following characteristics:
@@ -23,7 +23,7 @@ A Lesson Program within The Carpentries should possess the following characteris
 Each Lesson Program will have a Lesson Program Committee to serve as community governance organization and act as a point of contact with The Carpentries Executive Council and staff. The Lesson Program Committee will provide the Executive Council with an annual report of Lesson Program operations. 
 
 ### Resignation and Termination of Lesson Programs
-In the event that Lesson Programs fail to meet the responsibilities described above, the Executive Council may decide to retire the Lesson Program through a majority vote. If the Lesson Program Committee chooses to discontinue the Lesson Program’s association with The Carpentries, they must inform the Executive Council to arrange for separation of responsibilities and resources.  
+In the event that either the Lesson Program or The Carpentries is not fulfilling its obligations under the Lesson Program Policy, or the mission and vision of The Carpentries and the Lesson Program no longer align, the relationship between the Lesson Program and the Carpentries can be severed. The Executive Council may decide to retire the Lesson Program through a majority vote, or the Lesson Program Committee can choose to discontinue the Lesson Program's association with the Carpentries. In either case, notice must be given to the other organization to arrange for separation of responsibilities and resources.  
  
 ## 3. Organizational Membership
 ### Eligibility, Rights, and Termination of Organizational Members
