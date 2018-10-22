@@ -23,7 +23,7 @@ A Lesson Program within The Carpentries should possess the following characteris
 Each Lesson Program will have a Lesson Program Committee to serve as community governance organization and act as a point of contact with The Carpentries Executive Council and staff. The Lesson Program Committee will provide the Executive Council with an annual report of Lesson Program operations. 
 
 ### Resignation and Termination of Lesson Programs
-In the event that Lesson Programs fail to meet the responsibilities described above, the Executive Council may decide to retire the Lesson Program through a majority vote. If the Lesson Program Committee chooses to discontinue the Lesson Program’s association with The Carpentries, they must inform the Executive Council to arrange for separation of responsibilities and resources.  
+In the event that either the Lesson Program or The Carpentries is not fulfilling its obligations under the Lesson Program Policy, or the mission and vision of The Carpentries and the Lesson Program no longer align, the relationship between the Lesson Program and the Carpentries can be severed. The Executive Council may decide to retire the Lesson Program through a majority vote, or the Lesson Program Committee can choose to discontinue the Lesson Program's association with the Carpentries. In either case, notice must be given to the other organization to arrange for separation of responsibilities and resources.  
  
 ## 3. Organizational Membership
 ### Eligibility, Rights, and Termination of Organizational Members
