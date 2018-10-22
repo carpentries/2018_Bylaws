@@ -32,17 +32,17 @@ The rights and responsibilities of Member Organizations are outlined in each ins
 ## 4. Individual Voting Membership
 
 ### Eligibility for Voting Membership
-Individuals who satisfy at least one of the following conditions are eligible for Voting Membership:
+Individuals who satisfy at least one of the following conditions are eligible for Voting Membership, as assessed in a yearly timeframe associated with the dates of the election (Dec 1 to Nov 30):
 
 1. Every individual who has completed instructor or trainer certification in the past year
 2. Every individual who has completed their instructor certification in the last two years and has taught at least one workshop of The Carpentries 
 3. Every individual who is a certified instructor and has taught at least two workshops of The Carpentries in the past two years;
-4. Any individual who has participated on a committee, served as a mentor or maintainer, or otherwise made a significant contribution to any Lesson Program or The Carpentries organization in the past year is also considered active in the community and is welcome to apply for Voting Membership.
+4. Any individual who has participated on a committee, served as a mentor or maintainer, or otherwise made a significant contribution (as determined on a case-by-case basis by the Executive Council) to any Lesson Program or The Carpentries organization in the past year is also considered active in the community and is welcome to apply for Voting Membership.
 
 The Executive Director and all staff of The Carpentries (e.g., someone who has been paid for their work in the past year) are not eligible for Voting Membership.
 
-### Application for Voting Membership
-All individuals who satisfy conditions for 1-3 above are automatically tracked and will receive voting rights. Any individual who satisfies condition 4 may receive voting rights by contacting The Carpentries staff within a reasonable timeframe prior to release of ballots, as dictated by the Election Policy.
+### Responsibilities of Voting Members
+All individuals who satisfy conditions for 1-3 above are automatically tracked and will receive Voting Membership. Any individual who only satisfies condition 4 may receive Voting Membership by contacting The Carpentries staff within a reasonable timeframe prior to release of ballots to confirm their participation, as dictated by the Election Policy. 
 
 ### Resignation and Termination
 Any individual that no longer wants to be affiliated with The Carpentries or included as a Voting Member must inform The Carpentries staff.
