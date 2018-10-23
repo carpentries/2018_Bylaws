@@ -2,7 +2,9 @@
 
 ## 1. Purpose
 
-(This section will include the finalized [Mission](https://github.com/carpentries/executive-council-info/issues/1) and [Vision](https://github.com/carpentries/executive-council-info/issues/2)) 
+**Mission**: The Carpentries builds global capacity in essential data and computational skills for conducting efficient, open, and reproducible research. We train and foster an active, inclusive, diverse community of learners and instructors that promotes and models the importance of software and data in research. We collaboratively develop openly-available lessons and deliver these lessons using evidence-based teaching practices. We focus on people conducting and supporting research. 
+
+**Vision** [in progress](https://github.com/carpentries/executive-council-info/issues/2)
 
 ## 2. Lesson Program Membership
 
