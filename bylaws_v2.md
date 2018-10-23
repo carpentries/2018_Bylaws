@@ -70,7 +70,7 @@ Each Member of the Executive Council is responsible for:
 - preparing for, attending, and conscientiously participating in Executive Council meetings	
 
 ### Number, Tenure, Requirements, and Qualifications
-The Executive Council will be composed of nine (9) Members, each serving a two-year term, without limit on the number of terms. Member terms will begin on Febryary 1st, except when filling between-election vacancies (see below). Five (5) Members of the Executive Council will be elected by the Executive Council (hereafter referred to as "Council-elected"). The other four (4) Members will be elected by the Membership of the organization ("Community-elected").
+The Executive Council will be composed of nine (9) Members, each serving a two-year term, without limit on the number of terms. Member terms will begin on February 1st, except when filling between-election vacancies (see below). Five (5) Members of the Executive Council will be elected by the Executive Council (hereafter referred to as "Council-elected"). The other four (4) Members will be elected by the Membership of the organization ("Community-elected").
 No employer may have more than two elected or appointed representatives on the Executive Council, and Carpentries staff are not eligible to serve as Executive Council Members. The Executive Council has the final say in determining whether people are working for the same employer. If more than two people who are working for the same employer are elected, they must step down one by one to be replaced by other nominees in order of the number of votes received.
 
 ### Regular Meetings and Quorum
