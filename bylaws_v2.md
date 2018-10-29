@@ -72,7 +72,7 @@ Each Member of the Executive Council is responsible for:
 - preparing for, attending, and conscientiously participating in Executive Council meetings	
 
 ### Number, Tenure, Requirements, and Qualifications
-The Executive Council will be composed of nine (9) Members, each serving a two-year term, without limit on the number of terms. Member terms will begin on February 1st, except when filling between-election vacancies (see below). Five (5) Members of the Executive Council will be elected by the Executive Council (hereafter referred to as "Council-elected"). The other four (4) Members will be elected by the Membership of the organization ("Community-elected").
+The Executive Council will be composed of nine (9) Members, each serving a two-year term, without limit on the number of terms. Member terms will begin on February 1st, except when filling between-election vacancies (see below). Five (5) Members of the Executive Council will be elected by the Executive Council (hereafter referred to as "Council-elected Members"). The other four (4) Members will be elected by the Membership of the organization ("Community-elected Members").
 No employer may have more than two elected or appointed representatives on the Executive Council, and Carpentries staff are not eligible to serve as Executive Council Members. The Executive Council has the final say in determining whether people are working for the same employer. If more than two people who are working for the same employer are elected, they must step down one by one to be replaced by other nominees in order of the number of votes received.
 
 ### Regular Meetings and Quorum
@@ -100,12 +100,12 @@ Four (4) to five (5) of the nine (9) Members of the Executive Council will be el
 ### Community-elected Members
 Two (2) Community-elected Members will be elected each year by the Voting Members of The Carpentries. Any Voting Member of The Carpentries may stand for election by announcing their candidacy as dictated by the Election Policy; Carpentries staff may not stand for election. If there are fewer than two candidates for the election, the current Community-elected Members will decide amongst them who will remain in office. 
 
-Elections will take place once every calendar year and no later than 30 days before the new Executive Council becomes active (February 1). Each Voting Member may vote for as many candidates as there are seats to be filled. The candidates who receive the highest number of votes will be elected into the Executive Council.
+Elections will take place once every calendar year and no later than 30 days before the new Executive Council becomes active (February 1). Each Voting Member may vote for as many candidates as there are Community-elected Member seats to be filled. The candidates who receive the highest number of votes will be elected into the Executive Council.
 
 ### Council-elected Members
-Two (2) or three (3) of the Council-elected Members will be elected each year. The Executive Council must consider at least one more candidate than the number of Council-elected Member seats to be filled. Anyone may recommend  
+Two (2) or three (3) of the Council-elected Members will be elected each year. The Executive Council must consider at least one more candidate than the number of Council-elected Member seats to be filled. Anyone may recommend candidates for Council-elected positions.
 
-Council-elected Members are to be selected from among the recommendations by the Executive Council by anonymous vote. Appointed Members will abstain from voting when they themselves are recommended for reappointment. Each Executive Council Member may vote for as many individuals as there are seats to be filled. The individuals with the highest number of votes will be appointed. This vote will not take place until after the voting results for Community-elected Members are known and no later than December 15th. 
+Executive Council selects, by anonymous vote, the Council-elected Members from among the recommended candidates. Appointed Members will abstain from voting when they themselves are recommended for reappointment. Each Executive Council Member may vote for as many individuals as there are Council-elected Member seats to be filled. The individuals with the highest number of votes will be appointed. This vote will not take place until after the voting results for Community-elected Members are known and no later than December 15th. 
 
 ### Between-election vacancies
 If an Executive Council seat of a Community-elected Member becomes vacant after the beginning of the year but before the first of October, the Executive Council will strive to fill the seat with one of the non-elected nominees from the previous year’s election, in the order of the number of votes they received. If this effort fails, the Executive Council may appoint a Voting Member to fill the seat.
