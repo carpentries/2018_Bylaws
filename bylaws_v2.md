@@ -138,8 +138,8 @@ Responsibilities of each officer of the Executive Council are as follows:
 
 ### Treasurer
 - Assist the Executive Director in preparing financial reports for both the Executive Council and community at large
-- Assist the executive director in preparing the annual budget and presenting the budget to the Executive Council for approval
-- Answering Executive Council Members’ questions about the audit
+- Assist the Executive Director in preparing the annual budget and presenting the budget to the Executive Council for approval
+- Answer Executive Council Members’ questions about the budget and finances
 
 ### Election of Officers
 All officers must be members of the Executive Council. Officers will be selected via majority voting of the Executive Council at the first regular meeting of the year.
