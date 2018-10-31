@@ -33,7 +33,7 @@ Member Organizations have committed to supporting the maintenance and growth of 
 
 ## 4. Individual Voting Membership
 
-### Eligibility for Voting Membership
+### Eligibility, Rights, and Termination for Voting Members
 Individuals who satisfy at least one of the following conditions are eligible for Voting Membership, as assessed in a yearly timeframe associated with the dates of the election (Dec 1 to Nov 30):
 
 1. Every individual who has completed instructor or trainer certification in the past year
@@ -45,7 +45,6 @@ The Executive Director and all staff of The Carpentries (e.g., someone who has b
 
 All individuals who satisfy conditions for 1-3 above are automatically tracked and will receive Voting Membership. Any individual who only satisfies condition 4 may receive Voting Membership by contacting The Carpentries staff within a reasonable timeframe prior to release of ballots to confirm their participation, as dictated by the Election Policy. 
 
-### Resignation and Termination
 Any individual that no longer wants to be affiliated with The Carpentries or included as a Voting Member must inform The Carpentries staff.
 
 ## 5. Executive Council
