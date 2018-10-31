@@ -131,10 +131,10 @@ Responsibilities of each officer of the Executive Council are as follows:
 - Check that action has been taken following decisions at previous meetings
 
 ### Secretary
-- Ensures that someone is assigned to and takes minutes during all official EC meetings
-- Revises minutes for publication
+- Ensure that someone is assigned to and takes minutes during all official EC meetings
+- Revise minutes for publication
 - Report decisions, policy, and action items in formal minutes published publicly (when applicable) 
-- Receives all communication from community to Executive Council and relays as necessary
+- Receive all communication from community to Executive Council and relay as necessary
 
 ### Treasurer
 - Assist the Executive Director in preparing financial reports for both the Executive Council and community at large
@@ -145,7 +145,7 @@ Responsibilities of each officer of the Executive Council are as follows:
 All officers must be members of the Executive Council. Officers will be selected via majority voting of the Executive Council at the first regular meeting of the year.
 
 ### Removal of Officers
-If an officer steps down or is otherwise unable to meet their obligations as determined by the Chair and/or Vice Chair, a new officer will be elected from the remaining Executive Council Members.
+If an officer steps down, is removed from the Executive Council, or is otherwise unable to meet their obligations as determined by the Chair and/or Vice Chair, a new officer will be elected from the remaining Executive Council Members.
 
 ## 8. Committees
 
