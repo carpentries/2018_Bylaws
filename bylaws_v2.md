@@ -47,7 +47,7 @@ The Executive Director and all staff of The Carpentries (e.g., someone who has b
 
 All individuals who satisfy conditions for 1-3 above are automatically tracked and will receive Voting Membership. Any individual who only satisfies condition 4 may receive Voting Membership by contacting The Carpentries staff within a reasonable timeframe prior to release of ballots to confirm their participation, as dictated by the Election Policy. 
 
-Any individual who no longer wishes to be affiliated with The Carpentries or included as a Voting Member must inform The Carpentries staff for removal from membership lists. Voting Membership may be terminated by a majority vote of the Executive Council for individuals who are recommended for termination by the Code of Conduct committee or Executive Director for non-compliance with Carpentries policies or violation of the core values of The Carpentries.
+Any individual who no longer wishes to be affiliated with The Carpentries or included as a Voting Member must inform The Carpentries staff for removal from membership lists. Voting Membership may be terminated by a majority vote of the Executive Council for individuals who are recommended for termination by the Code of Conduct committee or Executive Director for non-compliance with The Carpentries policies or violation of the core values of The Carpentries.
 
 ## 5. Executive Council
 
